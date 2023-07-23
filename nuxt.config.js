@@ -5,7 +5,7 @@ export default defineNuxtConfig({
     [
       '@storyblok/nuxt',
       {
-        accessToken: 'W1vLyxT5rQ15jBpANjnv0gtt',
+        accessToken: 'w7xKuEr9hqEEHmwRFyGpIQtt',
         apiOptions: {
            region: '' // Set 'US" if your space is created in US region (EU default)
         }

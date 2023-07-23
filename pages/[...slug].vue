@@ -10,3 +10,4 @@ const story = await useAsyncStoryblok(
 <template>
   <StoryblokComponent v-if="story" :blok="story.content" />
 </template>
+
