@@ -6,7 +6,7 @@
         class="mx-auto w-3/4 object-cover"
       /> -->
       <div class="container mx-auto mb-12">
-        <h1 class="text-6xl text-gray-800 font-bold mt-12 mb-4">{{ blok.title }}</h1>
+        <h1 class="text-6xl text-gray-800 font-bold mt-12 mb-4">{{ blok.headline }}</h1>
         <h2 class="text-2xl text-gray-500 font-bold mb-4">
           {{ blok.description }}
         </h2>

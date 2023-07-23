@@ -7,7 +7,7 @@
       <nav>
         <ul class="flex space-x-8 text-lg font-bold">
           <li>
-            <NuxtLink to="/blog" class="hover:text-[#50b0ae]">Blog</NuxtLink>
+            <NuxtLink to="/article" class="hover:text-[#50b0ae]">Article</NuxtLink>
           </li>
           <li>
             <NuxtLink to="/about" class="hover:text-[#50b0ae]">About</NuxtLink>
